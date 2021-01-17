@@ -16,7 +16,7 @@ A score of 0 indicates the sentiment is Neutral, while a value greater then 0 in
 
 ## Example:
 
-
+![alt text](https://github.com/izanahmed/sentimental_analysis_stock_app/Sentimental-Analysis Stocks/sample.JPG?raw=true)
 
 ## Citations:
 
